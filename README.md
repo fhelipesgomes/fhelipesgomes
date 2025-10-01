@@ -87,7 +87,7 @@ Oi! Eu sou o Fhelipe S Gomes.
   ---
 
 <p align="center">
-  <b>✨ Obrigado por ler/ver até aqui 💎✨</b>
+  <b> Obrigado por ler/ver até aqui 💎</b>
 </p>
 
 <p align="center">
