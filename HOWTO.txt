@@ -1,0 +1,11 @@
+Como usar este pacote no GitHub (perfil fhelipesgomes)
+
+1) No GitHub, crie um repositório público chamado exatamente: fhelipesgomes
+2) Faça upload de todo o conteúdo desta pasta no repositório (incluindo a pasta .github e assets)
+3) Confirme se o arquivo existe:
+   - README.md (na raiz)
+   - .github/workflows/snake.yml
+   - assets/bob-esponja-pixel.png  (já incluído neste pacote)
+4) Vá na aba 'Actions' do repositório e habilite GitHub Actions (se solicitado).
+5) Aguarde 1–2 minutos. A animação 'snake' será publicada no branch 'output' automaticamente.
+6) Atualize o perfil e verifique o README renderizado.
