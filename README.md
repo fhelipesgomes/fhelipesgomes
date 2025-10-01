@@ -84,5 +84,13 @@ Oi! Eu sou o Fhelipe S Gomes.
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1f1f1f,100:0d0d0d" />
+  ---
+
+<p align="center">
+  <b>✨ Obrigado por ler/ver até aqui 💎✨</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:a1d9ff,50:b38cff,100:5c6bc0" />
+</p>
 </p>
