@@ -29,7 +29,7 @@
 
 ### 🧽 Mascote Pixelado
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fhelipesgomes/fhelipesgomes/main/assets/bob-esponja-pixel.png" width="260" />
+  <img src="https://raw.githubusercontent.com/fhelipesgomes/fhelipesgomes/main/assets/bob-esponja-pixel.png.gif" width="260" />
 </p>
 
 <p align="center">
