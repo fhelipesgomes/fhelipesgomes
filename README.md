@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <em>meow ♡ — システムアナリスト</em>
+  <em>meow ♡ — ソフトウェアエンジニア</em>
 </p>
 
 ---
@@ -76,7 +76,8 @@
 ### 💬 Sobre
 ```txt
 Oi! Eu sou o Fhelipe S Gomes.
-- システムアナリスト (System Analyst) em formação
+- ソフトウェアエンジニア (Software Engineer) em formação
+- Data Science
 - Curto Web, Python, Java, JS, C#, SQL, .NET, Power BI
 - Foco em aprender e construir coisas legais
 ```
