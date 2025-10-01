@@ -27,13 +27,13 @@
 
 ---
 
-### 🧽 Mascote Pixelado
+###  Mascote
 <p align="center">
   <img src="https://raw.githubusercontent.com/fhelipesgomes/fhelipesgomes/main/assets/bob-esponja-pixel.png.gif" width="260" />
 </p>
 
 <p align="center">
-  <em>meow ♡ — ソフトウェアエンジニア</em>
+  <em> ♡ — Cada bug resolvido é mais uma faceta lapidada no diamante do conhecimento.</em>
 </p>
 
 ---
