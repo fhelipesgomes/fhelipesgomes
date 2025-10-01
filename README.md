@@ -1,6 +1,6 @@
 <!-- Header com onda -->
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d0d0d,100:1f1f1f&text=Fhelipe%20S%20Gomes&fontColor=ffffff&fontAlignY=35&fontSize=42&desc=ソフトウェアエンジニア&descAlignY=60&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d0d0d,100:1f1f1f&text=Fhelipe%20S%20Gomes&fontColor=ffffff&fontAlignY=35&fontSize=42&desc=ソフトウェアエンジニア%20-%20Software%20Engineer&descAlignY=60&descSize=16" />
 </p>
 
 <!-- Redes sociais -->
