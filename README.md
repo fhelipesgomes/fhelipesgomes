@@ -78,7 +78,7 @@
 Oi! Eu sou o Fhelipe S Gomes.
 - ソフトウェアエンジニア (Software Engineer) em formação
 - Data Science
-- Curto Web, Python, Java, JS, C#, SQL, .NET, Power BI
+- Curto Desenvolvimento Web Full-Stack, Python, Java, JS, C#, SQL, .NET, Power BI
 - Foco em aprender e construir coisas legais
 ```
 
